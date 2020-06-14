@@ -1,0 +1,2 @@
+# KAGGLE---Grupo-Bimbo-Inventory-Demand
+Grupo Bimbo Inventory Demand - Maximize sales and minimize returns of bakery goods
